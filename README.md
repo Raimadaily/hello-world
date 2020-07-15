@@ -1,2 +1,5 @@
 # hello-world
-Just a new repository 
+
+Hi Humans
+This is Raima from Bangladesh. I love eating and cooking. 
+I live in Virginia.
